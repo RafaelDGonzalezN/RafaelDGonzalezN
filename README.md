@@ -12,7 +12,18 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,vite" />
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript icon"/>
+    <span>JavaScript</span>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML icon"/>
+    <span>HTML</span>
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS icon"/>
+    <span>CSS</span>
+    <img src="https://skillicons.dev/icons?i=react" title="React" alt="React icon"/>
+    <span>React</span>
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux icon"/>
+    <span>Redux</span>
+    <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite icon"/>
+    <span>Vite</span>
   </a>
 </p>
 
