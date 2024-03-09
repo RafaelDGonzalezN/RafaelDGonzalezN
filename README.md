@@ -12,7 +12,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,vite" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 <h2 >  💻 Backend Knowledge 🔧 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,sequelize,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize,firebase" />
   </a>
 </p>
 
