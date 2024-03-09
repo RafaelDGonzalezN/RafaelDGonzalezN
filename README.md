@@ -11,28 +11,28 @@
 <h2 > 🌐 Frontend 🎨 </h2>
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://skillicons.dev">
-    <div style="text-align: center;">
+  <a href="https://skillicons.dev" style="display: flex; justify-content: center;">
+    <div style="text-align: center; margin-right: 20px;">
       <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript icon"/>
       <br>
       JavaScript
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-right: 20px;">
       <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML icon"/>
       <br>
       HTML
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-right: 20px;">
       <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS icon"/>
       <br>
       CSS
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-right: 20px;">
       <img src="https://skillicons.dev/icons?i=react" title="React" alt="React icon"/>
       <br>
       React
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-right: 20px;">
       <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux icon"/>
       <br>
       Redux
@@ -44,6 +44,7 @@
     </div>
   </a>
 </p>
+
 
 <br>
 
