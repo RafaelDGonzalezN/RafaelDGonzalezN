@@ -8,7 +8,7 @@
 
 <br>
 <br>
-<h2 > 🌐 Frontend Knowledge 🎨 </h2>
+<h2 > 🌐 Frontend 🎨 </h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -18,10 +18,19 @@
 
 <br>
 
-<h2 >  💻 Backend Knowledge 🔧 </h2>
+<h2 >  💻 Backend 🔧 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize,firebase" />
+  </a>
+</p>
+
+<br>
+
+<h2 >  🤔 Otros ✅ </h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
 
