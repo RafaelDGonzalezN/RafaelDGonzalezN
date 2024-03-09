@@ -6,12 +6,16 @@
 
 ¡Hola! Soy Rafael, un apasionado de la informática. Con 24 años, decidí retomar mi formación en este campo después de haber obtenido un título técnico en ingeniería informática. Manejo diferentes tecnologias y he desarrollado proyectos significativos, incluyendo una plataforma de gestión de personajes y una plataforma de reservas y evaluacion de experiencias turísticas. Estoy emocionado por poner en practica mis conocimientos en informatica.
 
-<h2 align="center"> 🌐 Frontend Knowledge 🎨 </h2>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?css,html,js" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
+<br>
 <h2 align="center"> 💻 Backend Knowledge 🔧 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
