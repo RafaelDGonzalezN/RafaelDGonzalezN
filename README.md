@@ -7,7 +7,7 @@
 ¡Hola! Soy Rafael, un apasionado de la informática. Con 24 años, decidí retomar mi formación en este campo después de haber obtenido un título técnico en ingeniería informática. Manejo diferentes tecnologias y he desarrollado proyectos significativos, incluyendo una plataforma de gestión de personajes y una plataforma de reservas y evaluacion de experiencias turísticas. Estoy emocionado por poner en practica mis conocimientos en informatica.
 
 <br>
-
+<br>
 <h2 > 🌐 Frontend Knowledge 🎨 </h2>
 <!--tech stack icons-->
 <p align="left">
