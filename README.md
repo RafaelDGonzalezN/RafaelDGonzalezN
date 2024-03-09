@@ -8,11 +8,11 @@
 
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 > 🌐 Frontend Knowledge 🎨 </h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux" />
   </a>
 </p>
 <br>
