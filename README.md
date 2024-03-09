@@ -10,34 +10,39 @@
 <br>
 <h2 > 🌐 Frontend 🎨 </h2>
 <!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev" style="display: flex; justify-content: center;">
-    <div style="text-align: center; margin-right: 20px;">
-      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript icon"/>
-      JavaScript
-    </div>
-    <div style="text-align: center; margin-right: 20px;">
-      <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML icon"/>
-      HTML
-    </div>
-    <div style="text-align: center; margin-right: 20px;">
-      <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS icon"/>
-      CSS
-    </div>
-    <div style="text-align: center; margin-right: 20px;">
-      <img src="https://skillicons.dev/icons?i=react" title="React" alt="React icon"/>
-      React
-    </div>
-    <div style="text-align: center; margin-right: 20px;">
-      <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux icon"/>
-      Redux
-    </div>
-    <div style="text-align: center;">
-      <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite icon"/>
-      Vite
-    </div>
-  </a>
-</p>
+<table align="center">
+  <tr> 
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
 
 
 <br>
