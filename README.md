@@ -35,32 +35,6 @@
 </p>
 
 <br>
-Las principales tecnologías que manejo son:
-
--JavaScript
-
--CSS (Cascading Style Sheets)
-
--HTML
-
--React
-
--Vite
-
--Redux
-
--Node.js
-
--Express
-
--PostgresSQL
-
--Sequelize
-
--Git
-
--Github
-
 
 ### Mi objetivo
 
