@@ -12,18 +12,36 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript icon"/>
-    <span>JavaScript</span>
-    <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML icon"/>
-    <span>HTML</span>
-    <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS icon"/>
-    <span>CSS</span>
-    <img src="https://skillicons.dev/icons?i=react" title="React" alt="React icon"/>
-    <span>React</span>
-    <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux icon"/>
-    <span>Redux</span>
-    <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite icon"/>
-    <span>Vite</span>
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript icon"/>
+      <br>
+      JavaScript
+    </div>
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML icon"/>
+      <br>
+      HTML
+    </div>
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS icon"/>
+      <br>
+      CSS
+    </div>
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=react" title="React" alt="React icon"/>
+      <br>
+      React
+    </div>
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux icon"/>
+      <br>
+      Redux
+    </div>
+    <div style="text-align: center;">
+      <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite icon"/>
+      <br>
+      Vite
+    </div>
   </a>
 </p>
 
