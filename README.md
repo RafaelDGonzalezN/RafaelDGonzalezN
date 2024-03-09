@@ -12,7 +12,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
 <br>
