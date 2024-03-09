@@ -10,7 +10,6 @@
 <br>
 <h2 > 🌐 Frontend 🎨 </h2>
 <!--tech stack icons-->
-<table align="center">
   <tr> 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
@@ -41,7 +40,7 @@
       <br>Tailwind
     </td>
   </tr>
-</table>
+
 
 
 
