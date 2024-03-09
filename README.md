@@ -15,13 +15,17 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux" />
   </a>
 </p>
+
 <br>
+
 <h2 >  💻 Backend Knowledge 🔧 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,sequelize,firebase" />
   </a>
 </p>
+
+<br>
 Las principales tecnologías que manejo son:
 
 -JavaScript
