@@ -16,11 +16,10 @@
   </a>
 </p>
 <br>
-<h2 align="center"> 💻 Backend Knowledge 🔧 </h2>
+<h2 >  💻 Backend Knowledge 🔧 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?
-      nodejs,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,sequelize,firebase" />
   </a>
 </p>
 Las principales tecnologías que manejo son:
