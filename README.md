@@ -11,7 +11,7 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
 <h2 > 🌐 Frontend 🎨 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,vite,bootstrap	" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,vite,bootstrap" />
   </a>
 </p>
 
