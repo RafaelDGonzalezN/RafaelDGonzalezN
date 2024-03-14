@@ -20,7 +20,7 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
 <h2 >  💻 Backend 🔧 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize,firebase,boostrap" />
   </a>
 </p>
 
