@@ -43,7 +43,7 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
   <td width="25%" align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=6VB7dpQTPzs" title="Go to Source">
-    <img src="https://res.cloudinary.com/dcposqieu/image/upload/f_auto,q_auto/v1/PREET/b6fv82wyvexur5zdco0n" style="width: 320px;" alt="VIDEO" />
+    <img src="https://res.cloudinary.com/dcposqieu/image/upload/v1710452469/PREET/iuv20m6gnpij39s0ngcs.png" style="width: 320px;" alt="VIDEO" />
   </a>
 </p>
     <p align="center">
