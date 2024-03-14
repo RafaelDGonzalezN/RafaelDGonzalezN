@@ -4,7 +4,7 @@
 <a href = "mailto:david.gnzlz.224@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 <h2>Sobre mi 😎</h2>
-¡Hola! Soy Rafael, un apasionado de la informática. Con 24 años, decidí retomar mi formación en este campo después de haber obtenido un título técnico en ingeniería informática. Manejo diferentes tecnologias y he desarrollado proyectos significativos, incluyendo una plataforma de gestión de personajes y una plataforma de reservas y evaluacion de experiencias turísticas. Estoy emocionado por poner en practica mis conocimientos en informatica.
+Hola! Soy tecnico superior universitario en informática. Recientemente acabo de terminar un bootcamp de full stack developer. Manejo diferentes tecnologias y he desarrollado proyectos significativos, incluyendo una plataforma de gestión de personajes y una plataforma de reservas y evaluacion de experiencias turísticas. Estoy emocionado por poner en practica mis conocimientos en informatica.
 
 <br>
 <br>
