@@ -2,6 +2,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rafael-d-gonzalez-n/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "mailto:david.gnzlz.224@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UC_NrJzcYQoUzJ37NxSjEZEA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <h2>Sobre mi 😎</h2>
 Hola! Soy tecnico superior universitario en informática. Recientemente acabo de terminar un bootcamp de full stack developer. Manejo diferentes tecnologias y he desarrollado proyectos significativos, incluyendo una plataforma de gestión de personajes y una plataforma de reservas y evaluacion de experiencias turísticas. Estoy emocionado por poner en practica mis conocimientos en informatica.
