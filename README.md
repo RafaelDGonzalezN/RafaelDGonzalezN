@@ -41,7 +41,7 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
 
 <table align="left" >
 <tr border="none">
-  <td width="35%" align="center">
+  <td width="33%" align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=6VB7dpQTPzs" title="Go to Source">
     <img src="https://res.cloudinary.com/dcposqieu/image/upload/v1710452469/PREET/iuv20m6gnpij39s0ngcs.png" style="width: 320px;" alt="VIDEO" />
@@ -54,7 +54,7 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
     </p>       
 </td>
 
-  <td width="35%" align="center">
+  <td width="33%" align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dK0bCHTVcYM" title="Go to Source">
   <img src="https://res.cloudinary.com/dcposqieu/image/upload/v1710601457/Youtube/PI%20Dogs%20Play.png" style="width: 320px;" alt="VIDEO" />
@@ -66,7 +66,7 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
     </p>       
 </td>
 
-  <td width="35%" align="center">
+  <td width="33%" align="center">
 <p align="center">
   <a href="https://www.youtube.com/watch?v=mKEJZ-_95TE" title="Go to Source">
   <img src="https://res.cloudinary.com/dcposqieu/image/upload/v1710517299/Youtube/Rick%20and%20Morty%20Play.png" style="width: 320px;" alt="VIDEO" />
