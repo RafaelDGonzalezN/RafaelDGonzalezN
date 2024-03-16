@@ -56,6 +56,18 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
 
   <td width="25%" align="center">
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=dK0bCHTVcYM" title="Go to Source">
+  <img src="https://res.cloudinary.com/dcposqieu/image/upload/v1710601457/Youtube/PI%20Dogs%20Play.png" style="width: 320px;" alt="VIDEO" />
+  </a>
+</p>
+    <p align="center">
+      <a href="https://www.youtube.com/watch?v=dK0bCHTVcYM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="https://github.com/RafaelDGonzalezN/PI_Dogs" title="Repository" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </p>       
+</td>
+
+  <td width="25%" align="center">
+<p align="center">
   <a href="https://www.youtube.com/watch?v=mKEJZ-_95TE" title="Go to Source">
   <img src="https://res.cloudinary.com/dcposqieu/image/upload/v1710517299/Youtube/Rick%20and%20Morty%20Play.png" style="width: 320px;" alt="VIDEO" />
   </a>
