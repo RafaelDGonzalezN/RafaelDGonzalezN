@@ -48,9 +48,9 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
   </a>
 </p>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=6VB7dpQTPzs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="width: 90px;"/></a>
-      <a href="https://github.com/JoniRedrado/PREET-client" title="Frontend Repository" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="width: 90px;"/><//></a>
-      <a href="https://github.com/JoniRedrado/PREET-api" title="Bankend Repository" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="width: 90px;"/><//></a>
+        <a href="https://www.youtube.com/watch?v=6VB7dpQTPzs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="width: 85px;"/></a>
+      <a href="https://github.com/JoniRedrado/PREET-client" title="Frontend Repository" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="width: 85px;"/><//></a>
+      <a href="https://github.com/JoniRedrado/PREET-api" title="Bankend Repository" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="width: 85px;"/><//></a>
     </p>       
 </td>
 
