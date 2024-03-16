@@ -33,7 +33,7 @@ Hola! Soy tecnico superior universitario en informática. Recientemente acabo de
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
-
+ 
 <br>
 
 <div id="proyectos">
